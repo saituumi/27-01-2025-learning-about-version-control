@@ -1,2 +1,3 @@
-# 27-01-2025-learning-about-version-control
-Assignment One
+# “Learning about Version Control”
+
+author: Sayana Imash

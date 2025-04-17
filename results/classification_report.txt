@@ -1,0 +1,9 @@
+              precision    recall  f1-score   support
+
+      Adelie       0.97      1.00      0.99        37
+   Chinstrap       1.00      0.94      0.97        17
+      Gentoo       1.00      1.00      1.00        30
+
+    accuracy                           0.99        84
+   macro avg       0.99      0.98      0.99        84
+weighted avg       0.99      0.99      0.99        84
